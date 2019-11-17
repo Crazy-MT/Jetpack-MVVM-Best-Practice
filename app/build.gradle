@@ -81,6 +81,7 @@ dependencies {
 
     implementation(name: 'slidinguppanel', ext: 'aar')
     implementation(name: 'materialiconlib', ext: 'aar')
+    implementation project(path: ':linkage-recyclerview')
 
 
 }

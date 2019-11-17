@@ -1,2 +1,2 @@
-include ':app', ':architecture'
+include ':app', ':architecture', ':linkage-recyclerview'
 rootProject.name='PureMusic'
